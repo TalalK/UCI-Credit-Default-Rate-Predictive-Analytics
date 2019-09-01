@@ -7,3 +7,5 @@ An ROC Curve
 
 The tree is not how I want it to be.
 Some features stil need to be built and I aim to run a NN (Neural Network on it)
+
+Any reccomendations would be appreciated!
